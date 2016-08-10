@@ -47,16 +47,7 @@ public:
     double value2_old;
     double value3_old;
     double value4_old;
-    double value5_old;
-    double value6_old;
-    double value7_old;
-    double value8_old;
-    double value9_old;
-    double value10_old;
-    double value11_old;
-    double value12_old;
-    double value13_old;
-    double value14_old;
+
 
 private:
     Ui::MainWindow *ui;
